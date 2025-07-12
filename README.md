@@ -16,3 +16,6 @@ This repository contains a notebook with basic applications of neural networks. 
 - Autoencoders:
   - denoising MNIST (all numbers, multi classification) with PCA;
 - Reinforcement Learning (to be completed)
+
+## Animal dataset
+CNN model for recognize animals.
