@@ -18,4 +18,4 @@ This repository contains a notebook with basic applications of neural networks. 
 - Reinforcement Learning (to be completed)
 
 ## Animal dataset
-CNN model for recognize animals.
+CNN model to recognize animals.
