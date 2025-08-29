@@ -1,6 +1,10 @@
-# Neural-Networks-Tutorials
+# Neural Networks tutorials
 
-This repository contains a notebook with basic applications of neural networks. The main sections are:
+This repository contains a set of notebooks with basic applications of neural networks, both with PyTorch and Keras/TensorFlow, to illustrate the use of these libraries. The PyTorch notebooks, which start with (PT), are more complete; instead the TensorFlow notebooks (TF) are taken from the [Coursera specialization](https://www.coursera.org/professional-certificates/ibm-deep-learning-with-pytorch-keras-tensorflow).
+
+The content of the notebooks is as follows:
+
+TO BE UPDATED
 - Classical ML:
   - Linear Regression:
     - Optimal values (normal equation) by hand;
@@ -17,5 +21,4 @@ This repository contains a notebook with basic applications of neural networks. 
   - denoising MNIST (all numbers, multi classification) with PCA;
 - Reinforcement Learning (to be completed)
 
-## Animal dataset
-CNN model to recognize animals.
+
