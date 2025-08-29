@@ -1,4 +1,4 @@
-# Neural Networks tutorials
+# Deep Networks tutorials
 
 This repository contains a set of notebooks with basic applications of neural networks, both with PyTorch and Keras/TensorFlow, to illustrate the use of these libraries. The PyTorch notebooks, which start with (PT), are more complete; instead the TensorFlow notebooks (TF) are taken from the [Coursera specialization](https://www.coursera.org/professional-certificates/ibm-deep-learning-with-pytorch-keras-tensorflow).
 
